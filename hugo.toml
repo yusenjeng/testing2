@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'UI Shasta'
 [params]
   BookLogo = 'logo.png'
+  
+[build.environment]
+  HUGO_VERSION = "0.112.3"
